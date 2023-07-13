@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aiswerya! <br/><a href="https://github.com/aiswerya/aiswerya.git">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/aiswerya-manoharan">QA Engineer
+<h1>Hi, I'm Aiswerya! <br/><a href="https://github.com/aiswerya/aiswerya.git">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/aiswerya-manoharan">QA Engineer</a>
 
 
 <h2> AWS Cloud Projects:</h2>
@@ -12,11 +12,11 @@
 - <b>Linux Managing Log files</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
-<h2>👨‍💻 Networking:</h2>
+<h2> Networking:</h2>
 
 - <b>Build your VPC and Launch a Web Server</b>
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
-<h2>👨‍💻 Security :</h2>
+<h2> Security :</h2>
 
   
