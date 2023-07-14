@@ -6,17 +6,15 @@
 <h2>Linux :</h2>
 
 - <b>Bash Shell Scripting</b>
-  - 
+
 - <b>Linux Software Management</b>
-  - 
+  https://github.com/aiswerya/Linux-Software-Management.git
 - <b>Linux Managing Log files</b>
-  - 
 
 <h2> Networking:</h2>
 
 - <b>Build your VPC and Launch a Web Server</b>
-- 
-
+  
 <h2> Security :</h2>
 
   
